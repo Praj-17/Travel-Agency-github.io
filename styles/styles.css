@@ -131,3 +131,7 @@ body{
   background-color:  #041C32;
   /* color: white; */ 
 }
+.small-font
+{
+  font-size: 50px;
+}

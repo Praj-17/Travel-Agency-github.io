@@ -104,3 +104,7 @@ body{
 {
   background-color: #f1eff8;
 }
+.small-font
+{
+  font-size: smaller;
+}
