@@ -55,12 +55,33 @@ body{
   font-weight: bold;
 }
 
-.head-img{
-  height:580px;
-  opacity: 0.9;
+.header{
+  background-color: #fabc26;
 }
 
-.effects{
+.heading{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 700;
+  font-size: 2.5rem;
+  line-height: 1.5;
+  color:  #041C32;
+  padding: 40px 30px 30px 80px;
+  text-align: left;
+}
+
+.btn-dark{
+  background-color: #D9D7F1;
+  color: #0a0a0c;
+  margin-left: 80px;
+  margin-right: 20px;
+}
+
+/* .head-img{
+  /* height:580px; */
+  /* opacity: 0.9;
+} */
+
+/* .effects{
   visibility: visible;
 }
 
@@ -70,7 +91,7 @@ body{
 
 .head-text{
   /* visibility: hidden; */
-  position: absolute;
+/*  position: absolute;
   z-index: 1;
   font-size: 50px;
   text-align: center;
@@ -79,7 +100,7 @@ body{
   font-weight: 1000;
   font-family: 'Lato', sans-serif;
 
-}
+} */
 /* features pane */
 
 .features{
